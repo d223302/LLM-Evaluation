@@ -1,6 +1,6 @@
-### Can Large Language Models Be an Alternative to Human Evaluation?
+# Can Large Language Models Be an Alternative to Human Evaluation?
 
-This repo contains the human evaluation results and LLM evaluation results in our paper "Can Large Language Models Be an Alternative to Human Evaluation?"
+This repo contains the human evaluation results and LLM evaluation results in our paper "[Can Large Language Models Be an Alternative to Human Evaluation?][https://aclanthology.org/2023.acl-long.870/]"
 We only release the results for open-ended story generation since it is the main experiment in our paper.
 
 
@@ -19,12 +19,12 @@ Files:
 - All other `.json` files are the results of querying GPT-3.5 models in January 2023. Each file is a different ablation used in Section 3. Refer to the name of the files to see which ablation it corresponds to.
 - We do not release the results of ChatGPT's evaluation since we use the UI of ChatGPT for LLM evaluation. (There was no ChatGPT API at the time of writing the paper.)
 
-#### License
+## License
 
 The data in this repo (the ratings of LLM and humans) are released under **Apache License 2.0**.
 
 
-#### Citation
+## Citation
 
 If you use the results of our paper, please cite our paper.
 It will also be great if you can cite our paper if you are using LLM for evaluation.

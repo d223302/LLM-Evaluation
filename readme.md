@@ -1,6 +1,6 @@
 # Can Large Language Models Be an Alternative to Human Evaluation?
 
-This repo contains the human evaluation results and LLM evaluation results in our paper "[Can Large Language Models Be an Alternative to Human Evaluation?][https://aclanthology.org/2023.acl-long.870/]"
+This repo contains the human evaluation results and LLM evaluation results in our paper "[https://aclanthology.org/2023.acl-long.870/][Can Large Language Models Be an Alternative to Human Evaluation?]"
 We only release the results for open-ended story generation since it is the main experiment in our paper.
 
 
